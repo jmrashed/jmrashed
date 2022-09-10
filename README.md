@@ -1,22 +1,53 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=popins&pause=100&color=F70000&center=true&vCenter=true&multiline=true&width=768&height=100&lines=Full+Stack+Web+Developer+;PHP%2C+HTML%2C+CSS%2C+REACT%2C+NODE%2C+MYSQL%2C+MongoDB;Tech+Lead+%40+SOOKH+%7C%7C+UI%2FUX+Specialist+)
+ <style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
 
-<p>
- <!-- <img align="right" src="hey-this-is Rashed-and-I-love-coding.gif" width="300" height="300"/> -->
- </p>
- 
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+</style>
+
+<ul>
+  <li><a class="active" href="README.md">Home</a></li>
+  <li><a href="AboutMe.md">About Me</a></li>
+  <li><a href="contactMe.md">Contact</a></li>
+  <li><a href="Resume.md">Resume</a></li>
+</ul>
 <h2>  Hi there! 👋 I'm Md Rasheduzzaman. </h2>
 
 Here are some ideas to knowing me:
 
 - 🔭 I’m currently working on PHP,Javascript,Python
+- 
 - 💬 Ask me about React.js, Node.js, PHP, Python, C/C++, Laravel and API etc.
+- 
 - 📫 How to reach me: jmrashed@gmail.com
+- 
 
-## Programming Languages
+## The most commonly used programming languages
 
 ![C](https://img.shields.io/badge/C-F7DF1E?style=flat-square&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-007ACC?style=flat-square&logo=C++&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=C++&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-29BEB0?style=flat-square&logo=go&logoColor=white)
 
 ## MERN Stack
 
@@ -68,10 +99,7 @@ Here are some ideas to knowing me:
 ![AWS](https://img.shields.io/badge/aws-F79400?style=flat-square&logo=aws&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-335061?style=flat-square&logo=jenkins&logoColor=white)
 
-### Numbers
-
-![Md Rasheduzzaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmrashed&show_icons=true)
-
+ 
 ## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rasheduzzaman/)
@@ -79,35 +107,33 @@ Here are some ideas to knowing me:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/engr.jmrashed.bd)
 [![Reddit](https://img.shields.io/badge/reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/md-rasheduzzaman)
 [![Stackoverflow](https://img.shields.io/badge/stackoverflow-F48024?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3699981/rashed-zaman)
+[![codepen](https://img.shields.io/badge/codepen-F48024?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/jmrashed)
+[![devTo](https://img.shields.io/badge/dev.to-000000?style=flat-square&logo=dev&logoColor=white)](https://dev.to/jmrashed) 
+[![codesandbox](https://img.shields.io/badge/codesandbox-000000?style=flat-square&logo=codesandbox&logoColor=white)](https://codesandbox.com/jmrashed)
+[![instagram](https://img.shields.io/badge/instagram-red?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/jmrashed)
+[![dribbble](https://img.shields.io/badge/dribbble-ea4c89?style=flat-square&logo=dribbble&logoColor=white)](https://codesandbox.com/jmrashed)
+[![behance](https://img.shields.io/badge/behance-053eff?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/jmrashed) 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jmrashed" height="30" width="40" /></a>
-<a href="https://dev.to/jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jmrashed" height="30" width="40" /></a>
-<a href="https://twitter.com/@jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jmrashed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-rasheduzzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-rasheduzzaman" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jmrashed" height="30" width="40" /></a>
-<a href="https://codesandbox.com/jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jmrashed" height="30" width="40" /></a>
-<a href="https://fb.com/mdrasheduzzamanofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdrasheduzzamanofficial" height="30" width="40" /></a>
-<a href="https://instagram.com/jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jmrashed" height="30" width="40" /></a>
-<a href="https://dribbble.com/jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="jmrashed" height="30" width="40" /></a>
-<a href="https://www.behance.net/jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jmrashed" height="30" width="40" /></a>
-<a href="https://hashnode.com/@jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jmrashed" height="30" width="40" /></a>
-<a href="https://medium.com/@jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jmrashed" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/jmrashed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jmrashed" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jmrashed" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jmrashed" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jmrashed" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@jmrashed" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jmrashed" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="jmrashed" height="30" width="40" /></a>
-<a href="https://discord.gg/jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jmrashed" height="30" width="40" /></a>
-</p>
+ 
+## Where to find me as a programmer 
+<div style="margin:5px;padding:5px;>
+    <a href="https://hashnode.com/@jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jmrashed" height="30" width="40" /></a>
+    <a href="https://medium.com/@jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jmrashed" height="30" width="40" /></a>
+    <a href="https://www.codechef.com/users/jmrashed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jmrashed" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jmrashed" height="30" width="40" /></a>
+    <a href="https://codeforces.com/profile/jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jmrashed" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jmrashed" height="30" width="40" /></a>
+    <a href="https://www.hackerearth.com/@jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@jmrashed" height="30" width="40" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jmrashed" height="30" width="40" /></a>
+    <a href="https://www.topcoder.com/members/jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="jmrashed" height="30" width="40" /></a>
+    <a href="https://discord.gg/jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jmrashed" height="30" width="40" /></a>
+ </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmrashed&show_icons=true&locale=en&layout=compact" alt="jmrashed" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmrashed&show_icons=true&locale=en" alt="jmrashed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmrashed&" alt="jmrashed" /></p>
+### Md Rasheduzzaman's Numbers
+<div style="margin:5px">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmrashed&show_icons=true&locale=en&layout=compact" alt="jmrashed"  style="width:25%; padding:3px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmrashed&show_icons=true&locale=en" alt="jmrashed" style="width:29%; padding:3px" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jmrashed&" alt="jmrashed"  style="width:29%; padding:3px"/>
+</div>
