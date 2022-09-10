@@ -9,14 +9,6 @@
 </ul>
 <h2>  Hi there! 👋 I'm Md Rasheduzzaman. </h2>
 
-# Resume of Md Rasheduzzaman
-
-<img src="./assets/1.jpg">
-
-<br>
-
-<img src="./assets/2.jpg">
-
-## Download My Resume
-
-<a href="./assets/resume.pdf"> Download </a>
+<ul>
+    <li> <a href="./assets/libs/POST1.md">  A list of Heroku Alternatives </a></li>
+</ul>
