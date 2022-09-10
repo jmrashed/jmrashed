@@ -1,29 +1,4 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=popins&pause=100&color=F70000&center=true&vCenter=true&multiline=true&width=768&height=100&lines=Full+Stack+Web+Developer+;PHP%2C+HTML%2C+CSS%2C+REACT%2C+NODE%2C+MYSQL%2C+MongoDB;Tech+Lead+%40+SOOKH+%7C%7C+UI%2FUX+Specialist+)
- <style>
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-}
-
-li {
-  float: left;
-}
-
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-li a:hover {
-  background-color: #111;
-}
-</style>
 
 <ul>
   <li><a class="active" href="README.md">Home</a></li>
@@ -36,11 +11,11 @@ li a:hover {
 Here are some ideas to knowing me:
 
 - 🔭 I’m currently working on PHP,Javascript,Python
-- 
+-
 - 💬 Ask me about React.js, Node.js, PHP, Python, C/C++, Laravel and API etc.
-- 
+-
 - 📫 How to reach me: jmrashed@gmail.com
-- 
+-
 
 ## The most commonly used programming languages
 
@@ -99,7 +74,6 @@ Here are some ideas to knowing me:
 ![AWS](https://img.shields.io/badge/aws-F79400?style=flat-square&logo=aws&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-335061?style=flat-square&logo=jenkins&logoColor=white)
 
- 
 ## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-rasheduzzaman/)
@@ -108,15 +82,14 @@ Here are some ideas to knowing me:
 [![Reddit](https://img.shields.io/badge/reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/md-rasheduzzaman)
 [![Stackoverflow](https://img.shields.io/badge/stackoverflow-F48024?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3699981/rashed-zaman)
 [![codepen](https://img.shields.io/badge/codepen-F48024?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/jmrashed)
-[![devTo](https://img.shields.io/badge/dev.to-000000?style=flat-square&logo=dev&logoColor=white)](https://dev.to/jmrashed) 
+[![devTo](https://img.shields.io/badge/dev.to-000000?style=flat-square&logo=dev&logoColor=white)](https://dev.to/jmrashed)
 [![codesandbox](https://img.shields.io/badge/codesandbox-000000?style=flat-square&logo=codesandbox&logoColor=white)](https://codesandbox.com/jmrashed)
 [![instagram](https://img.shields.io/badge/instagram-red?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/jmrashed)
 [![dribbble](https://img.shields.io/badge/dribbble-ea4c89?style=flat-square&logo=dribbble&logoColor=white)](https://codesandbox.com/jmrashed)
-[![behance](https://img.shields.io/badge/behance-053eff?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/jmrashed) 
+[![behance](https://img.shields.io/badge/behance-053eff?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/jmrashed)
 
+## Where to find me as a programmer
 
- 
-## Where to find me as a programmer 
 <div style="margin:5px;padding:5px;>
     <a href="https://hashnode.com/@jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jmrashed" height="30" width="40" /></a>
     <a href="https://medium.com/@jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jmrashed" height="30" width="40" /></a>
@@ -130,8 +103,8 @@ Here are some ideas to knowing me:
     <a href="https://discord.gg/jmrashed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jmrashed" height="30" width="40" /></a>
  </div>
 
-
 ### Md Rasheduzzaman's Numbers
+
 <div style="margin:5px">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmrashed&show_icons=true&locale=en&layout=compact" alt="jmrashed"  style="width:25%; padding:3px"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmrashed&show_icons=true&locale=en" alt="jmrashed" style="width:29%; padding:3px" />
