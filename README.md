@@ -30,6 +30,10 @@ Here are some ideas to knowing me:
 - Video Calling Web Application
 
 
+
+[![Check out jmrashed's profile on stardev.io](https://stardev.io/developers/jmrashed/badge/languages/global.svg)](https://stardev.io/developers/jmrashed)
+
+
 ### The most commonly used programming languages
 
 ![C](https://img.shields.io/badge/C-F7DF1E?style=flat-square&logo=C&logoColor=white)
