@@ -28,7 +28,7 @@ Here are some ideas to knowing me:
 - Face Recognition Attendance System
 - Video Calling Web Application
 
-<h1>[Resume.md](Resume.md)</h1>
+<h1><a href="Resume.md">Resume</a></h1>
 
 
 [![Check out jmrashed's profile on stardev.io](https://stardev.io/developers/jmrashed/badge/languages/global.svg)](https://stardev.io/developers/jmrashed)
