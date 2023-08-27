@@ -1,6 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=popins&pause=100&color=F70000&center=true&vCenter=true&multiline=true&width=768&height=100&lines=Full+Stack+Web+Developer+;PHP%2C+HTML%2C+CSS%2C+REACT%2C+NODE%2C+MYSQL%2C+MongoDB;Tech+Lead+%40+SOOKH+%7C%7C+UI%2FUX+Specialist+)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&center=true&width=500&height=100&lines=%F0%9F%9A%80+Tech+Architect+%7C+Full+Stack+Creator+;UX+Evangelist+%F0%9F%8E%A8;Experiences+with+C%2B%2B%2C+PHP%2C+Node.js%2C+Python%2C+Go+%26+DevOps;Turning+Visions+into+Reality+%40+OnestTech+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
-<a class="active" href="README.md">Home</a> | <a href="AboutMe.md">About Me</a> | <a href="contactMe.md">Contact</a> | <a href="Resume.md">Resume</a>
 
 <h2>  Hi there! 👋 I'm Md Rasheduzzaman. </h2>
 
@@ -29,6 +28,7 @@ Here are some ideas to knowing me:
 - Face Recognition Attendance System
 - Video Calling Web Application
 
+<h1>[Resume.md](Resume.md)</h1>
 
 
 [![Check out jmrashed's profile on stardev.io](https://stardev.io/developers/jmrashed/badge/languages/global.svg)](https://stardev.io/developers/jmrashed)
