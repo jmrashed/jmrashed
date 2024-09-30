@@ -11,7 +11,7 @@
 
 ## **Summary**
 
-Experienced Tech Lead and Full Stack Developer with 6+ years of expertise across C++, Python, PHP, Go, Node.js, and DevOps. I specialize in creating innovative software solutions, optimizing performance, and leading diverse teams to deliver top-notch applications. With a keen eye for user experience and system architecture, I turn visions into reality by leveraging modern tech stacks, including MERN, LAMP, and AWS ecosystems. Dedicated to problem-solving and mentoring, I thrive in environments where creativity and efficiency intersect.
+Experienced Tech Lead and Full Stack Developer with 8+ years of expertise across C++, Python, PHP, Go, Node.js, and DevOps. I specialize in creating innovative software solutions, optimizing performance, and leading diverse teams to deliver top-notch applications. With a keen eye for user experience and system architecture, I turn visions into reality by leveraging modern tech stacks, including MERN, LAMP, and AWS ecosystems. Dedicated to problem-solving and mentoring, I thrive in environments where creativity and efficiency intersect.
 
 ---
 
@@ -69,12 +69,43 @@ Stamford University Bangladesh – Dhaka, Bangladesh
 
 ---
 
-## **Certifications**
-
-- **AWS Certified Developer – Associate**  
-- **Certified ScrumMaster**
 
 ---
+
+### **Certifications**  
+- **PMP Certification** (In Progress)  
+- **Project Management** – Rice University | Coursera, 2018  
+- **Web Development & Coding Specialization** – University of Michigan | Coursera, 2017  
+- **Building Database Applications in PHP** – University of Michigan | Coursera, 2016  
+
+---
+
+### **Notable Projects**  
+- **HRM System (Ongoing)**: HR management platform using microservices architecture (Node.js, Python, Kafka, Docker).  
+- **LMS (Learning Management System)**: Built with Laravel, jQuery, Bootstrap, delivering seamless online learning experiences.  
+- **CRM (Client Relation Management System)**: Developed using Laravel, integrated with REST API for streamlined customer management.  
+- **Ecommerce (Online Marketplace)**: Multi-vendor ecommerce platform using Next.js, Node.js, MongoDB, and MySQL.  
+- **FaceAi**: Face recognition system developed with Python and OpenCV, enhancing security solutions.  
+- **Social Media Dashboard**: Built using React.js, GraphQL, Node.js, MongoDB for real-time data visualization and analytics.  
+
+---
+
+### **Awards & Achievements**  
+- **Employee of The Year** – United Group, 2017  
+- **Workshop on Web Design & Development** – Stamford University Bangladesh, 2015  
+- **Workshop on Health Data Analytics** – BUET, 2016  
+
+---
+
+### **Professional Development**  
+- **Agile Methodology Workshop** – Onest Tech LLC, 2022  
+- **Leadership & Team Management Training** – United Group, 2018  
+
+---
+
+### **Languages**  
+- **English:** Fluent  
+- **Bengali:** Native  
 
 ## **Key Projects**
 
