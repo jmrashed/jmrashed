@@ -108,7 +108,6 @@ Stamford University Bangladesh – Dhaka, Bangladesh
 ## **Key Projects**
 
 ### **Real-Time Chat Application**  
-[GitHub Repository](https://github.com/johndoe/chat-app)
 
 - Designed and developed a multi-threaded real-time chat app using C++ and WebSockets.
 - Implemented priority queues to enhance message delivery efficiency, reducing latency.
@@ -131,6 +130,19 @@ Stamford University Bangladesh – Dhaka, Bangladesh
 
 - **Innovator of the Year, Onest Tech LLC** (2022)  
 - **Code Optimization Champion, CodingCon** (2020)
+
+---
+
+
+### **Popular Laravel Packages:**
+1. [jmrashed/zkteco](https://github.com/jmrashed/zkteco)  
+   A Laravel package for integrating with ZKTeco biometric devices.
+2. [jmrashed/laravel-core-application-auth-lib](https://github.com/jmrashed/laravel-core-application-auth-lib)  
+   Core library for authentication in Laravel applications.
+3. [jmrashed/laravel-core-application-service](https://github.com/jmrashed/laravel-core-application-service)  
+   Service-oriented architecture for Laravel applications.
+
+
 
 ---
 
