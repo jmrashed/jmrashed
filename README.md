@@ -68,9 +68,7 @@ Stamford University Bangladesh – Dhaka, Bangladesh
 - **Capstone Project:** Developed a real-time chat application using C++ and WebSocket technology.
 
 ---
-
-
----
+ 
 
 ### **Certifications**  
 - **PMP Certification** (In Progress)  
