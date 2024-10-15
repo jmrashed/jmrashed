@@ -1,162 +1,128 @@
-# **Md Rasheduzzaman**
+# **MD RASHEDUZZAMAN**
 
-**Tech Architect | Full Stack Creator | UX Evangelist**  
-**Location:** Dhaka, Bangladesh  
 **Email:** jmrashed@gmail.com  
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/md-rasheduzzaman/)  
 **GitHub:** [GitHub Profile](https://github.com/jmrashed)  
 **Twitter:** [@_rasheduzzaman](https://twitter.com/_rasheduzzaman)  
+**Website:** [rasheduzzaman.com](http://rasheduzzaman.com)  
+**Phone:** +88 01734446514  
 
 ---
 
-## **Summary**
+## **Professional Summary**
 
-Experienced Tech Lead and Full Stack Developer with 8+ years of expertise across C++, Python, PHP, Go, Node.js, and DevOps. I specialize in creating innovative software solutions, optimizing performance, and leading diverse teams to deliver top-notch applications. With a keen eye for user experience and system architecture, I turn visions into reality by leveraging modern tech stacks, including MERN, LAMP, and AWS ecosystems. Dedicated to problem-solving and mentoring, I thrive in environments where creativity and efficiency intersect.
+Dynamic and results-oriented Technical Project Manager with over 7 years of comprehensive experience in software development and project management. Proven track record of leading cross-functional teams in delivering high-quality, scalable solutions using PHP, Node.js, and React. Adept at optimizing project processes and leveraging Agile methodologies to ensure successful project outcomes. Strong communicator and stakeholder manager, with a passion for driving technology initiatives that enhance operational efficiency and user experience. Seeking to leverage my expertise in a challenging Technical Project Manager role to deliver innovative solutions and improve project delivery timelines.
 
 ---
 
-## **Core Competencies**
+## **Technical Skills**
 
-- **Languages:** C++, Python, PHP, Go, Node.js  
-- **Frameworks:** Laravel, React, Express, Flask  
-- **DevOps Tools:** Docker, Kubernetes, Jenkins, AWS  
-- **Version Control:** Git, GitHub, GitLab, Bitbucket  
-- **Database Systems:** MySQL, MariaDB, SQLite, Redis  
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, TailwindCSS, Ionic  
-- **Other Tools:** Nginx, Apache, Cloudflare, GraphQL  
-- **Soft Skills:** Team Leadership, Communication, Problem Solving, Mentoring
+- **Project Management:** Agile, Scrum, Kanban, Waterfall methodologies  
+- **Programming Languages:** PHP, Node.js, Python, JavaScript, HTML, CSS  
+- **Frameworks & Libraries:** Laravel, CodeIgniter, Express, React, Bootstrap, Tailwind CSS  
+- **Databases:** MySQL, MongoDB (NoSQL)  
+- **APIs:** RESTful, GraphQL  
+- **DevOps Tools:** Docker, CI/CD, Jenkins, AWS  
+- **Project Management Tools:** Jira, Trello, Asana, Slack  
+- **Testing Tools:** Selenium, Postman  
+- **Version Control:** Git, GitHub, GitLab  
+- **Documentation:** Confluence, Google Docs, Markdown  
 
 ---
 
 ## **Professional Experience**
 
-### **Tech Lead Officer**  
-*Onest Tech LLC* – Dhaka, Bangladesh  
-**September 2022 – Present**
+### **Tech Lead**  
+**Onest Tech LLC** — Banani, Dhaka, BD  
+*09/2022 - Present*
 
-- **Strategic Innovation:** Directed a team of developers in crafting scalable, high-performance software solutions.
-- **Performance Optimization:** Reduced application latency by 40% through advanced algorithmic optimizations.
-- **Mentorship & Leadership:** Guided junior developers, boosting their productivity and knowledge, creating a more efficient development cycle.
-- **UX Collaboration:** Worked closely with UX designers to create user-friendly interfaces that enhance user experience.
+- Lead a team of 36 developers in making critical technical decisions and implementing architectural strategies, enhancing team collaboration and productivity.
+- Oversee the development and deployment of full-stack applications, achieving a 10% increase in application performance and user satisfaction.
+- Collaborate with stakeholders to define project scope, objectives, and deliverables, ensuring alignment with business goals.
+- Implement Agile methodologies to improve team efficiency and adaptability, resulting in a 25% reduction in project delivery time.
+- Conduct regular project status meetings, facilitating communication between teams and stakeholders, and providing progress updates to upper management.
+- Mentor junior developers and conduct code reviews, fostering a culture of continuous improvement and learning.
 
-### **Senior Software Project Manager**  
-*Onest Tech LLC* – Dhaka, Bangladesh  
-**January 2021 – August 2022**
+### **Project Manager**  
+**Onest Tech LLC** — Banani, Dhaka, BD  
+*01/2021 - 08/2022*
 
-- **End-to-End Leadership:** Managed cross-functional teams, overseeing project delivery from ideation to execution.
-- **Efficiency Champion:** Led projects that decreased system latency by 40% via in-depth algorithmic improvements.
-- **Mentorship Focus:** Nurtured young talent, contributing to a strong, efficient, and knowledgeable team.
-- **UX Partnership:** Worked collaboratively with designers to enhance and streamline user interaction.
+- Managed multiple software development projects, defining project scope, deliverables, and timelines, leading to a 30% increase in client satisfaction.
+- Developed and maintained project documentation, including project plans, schedules, and risk management strategies.
+- Established and monitored KPIs to evaluate project performance, making data-driven decisions to optimize processes and resource allocation.
+- Liaised with clients to understand their requirements and provided technical solutions, enhancing customer engagement and satisfaction.
+- Coordinated with QA teams to ensure rigorous testing processes were followed, maintaining high-quality deliverables.
 
-### **Software Project Manager**  
-*Spondon IT Ltd.* – Dhaka, Bangladesh  
-**April 2019 – December 2020**
+### **Project Manager**  
+**Spondon IT** — Panthapath, Dhaka, BD  
+*04/2019 - 12/2020*
 
-- **Backend Innovation:** Overhauled backend systems using Python and Node.js, improving system stability by 25%.
-- **RESTful API Development:** Developed APIs for improved modularity and seamless integration across services.
-- **Architectural Overhaul:** Spearheaded migration from legacy systems to modern architecture, enhancing code quality and maintainability.
+- Defined and communicated project objectives, aligning technical requirements with business needs and ensuring stakeholder satisfaction.
+- Improved project delivery timelines by implementing CI/CD pipelines and adopting Agile practices, resulting in a 20% faster deployment process.
+- Facilitated regular team meetings and stand-ups, promoting collaboration and ensuring clarity in project goals and individual responsibilities.
+- Developed risk management strategies to identify and mitigate project risks, ensuring project continuity and success.
+
+### **Senior Software Engineer**  
+**Spondon IT** — Panthapath, Dhaka, BD  
+*10/2017 - 03/2019*
+
+- Led the development of high-quality applications using PHP and JavaScript, adhering to best practices in software design and development.
+- Collaborated with cross-functional teams to gather requirements and translate them into technical specifications, enhancing project alignment.
+
+### **Software Engineer**  
+**United Group** — Gulshan-2, Dhaka, BD  
+*01/2017 - 10/2017*
+
+- Developed and maintained web applications, ensuring functionality and performance through thorough testing and debugging.
 
 ---
 
 ## **Education**
 
-### **B.Sc. in Computer Science**  
-Stamford University Bangladesh – Dhaka, Bangladesh  
-**Graduation:** May 2016  
-
-- **Core Focus:** Algorithms, Data Structures, Object-Oriented Programming, Software Engineering.
-- **Capstone Project:** Developed a real-time chat application using C++ and WebSocket technology.
+**Bachelor of Science in Computer Science & Engineering**  
+**Stamford University Bangladesh** — Dhaka, BD  
+*04/2012 - 04/2016*  
+- CGPA: 3.73
 
 ---
+
+## **Projects**
+
+- **HRM** - Human Resource Management System [Microservices, Node.js, Go, Python, Kafka, ELK, Redis, Docker - Ongoing]
+- **LMS** - Learning Management System [Laravel, jQuery, Bootstrap, RestAPI]
+- **CRM** - Client Relation Management System [Laravel, jQuery, Bootstrap, RestAPI]
+- **School Management System** [Laravel, HTML, CSS, Bootstrap, JavaScript, jQuery]
+- **Online News Portal** [Node.js, Fastify, NoSQL, MongoDB, Laravel, HTML, CSS, jQuery]
+- **E-commerce Marketplace** [Next.js, Node.js, MongoDB, Laravel, MySQL]
+- **Face Recognition System** [Python, OpenCV]
+- **Mobile Expense Tracker** [Laravel, HTML, Tailwind CSS, Firebase]
+- **Portfolio Website** [React, HTML, CSS, JavaScript]
+- **Social Media Dashboard** [React.js, GraphQL, Node.js, MongoDB]
+
+---
+
+## **Certifications**
+
+- **Building Database Applications in PHP** — University of Michigan, Coursera (2016)
+- **Web Development & Coding Specialization** — University of Michigan, Coursera (2017)
+- **Project Management** — Rice University, Coursera (2017)
+- **AWS Certified Solutions Architect – Associate** (In Progress)
+- **Certified ScrumMaster (CSM)** (In Progress)
+
+---
+
+## **Other Activities**
+
+- **Workshop on Web Design & Development** — Dept. of CSE, Stamford University Bangladesh (May 2015)
+- **Workshop on Health Data Analytics** — Dept. of CSE, BUET (Aug 2016)
+- **Employee of the Year** — United Group (2017)
+- **Innovator of the Year** — Onest Tech LLC (2022)
+- **Open Source Contributor** — Actively contribute to several open-source projects, enhancing skills and community involvement.
+
+---
+
+## **Professional Development**
+
+- **Tech Conferences**: Attended various tech conferences and seminars to stay updated on industry trends and technologies.
+- **Online Courses**: Continuously upskilling through online courses on platforms like Coursera, Udemy, and edX.
  
-
-### **Certifications**  
-- **PMP Certification** (In Progress)  
-- **Project Management** – Rice University | Coursera, 2018  
-- **Web Development & Coding Specialization** – University of Michigan | Coursera, 2017  
-- **Building Database Applications in PHP** – University of Michigan | Coursera, 2016  
-
----
-
-### **Notable Projects**  
-- **HRM System (Ongoing)**: HR management platform using microservices architecture (Node.js, Python, Kafka, Docker).  
-- **LMS (Learning Management System)**: Built with Laravel, jQuery, Bootstrap, delivering seamless online learning experiences.  
-- **CRM (Client Relation Management System)**: Developed using Laravel, integrated with REST API for streamlined customer management.  
-- **Ecommerce (Online Marketplace)**: Multi-vendor ecommerce platform using Next.js, Node.js, MongoDB, and MySQL.  
-- **FaceAi**: Face recognition system developed with Python and OpenCV, enhancing security solutions.  
-- **Social Media Dashboard**: Built using React.js, GraphQL, Node.js, MongoDB for real-time data visualization and analytics.  
-
----
-
-### **Awards & Achievements**  
-- **Employee of The Year** – United Group, 2017  
-- **Workshop on Web Design & Development** – Stamford University Bangladesh, 2015  
-- **Workshop on Health Data Analytics** – BUET, 2016  
-
----
-
-### **Professional Development**  
-- **Agile Methodology Workshop** – Onest Tech LLC, 2022  
-- **Leadership & Team Management Training** – United Group, 2018  
-
----
-
-### **Languages**  
-- **English:** Fluent  
-- **Bengali:** Native  
-
-## **Key Projects**
-
-### **Real-Time Chat Application**  
-
-- Designed and developed a multi-threaded real-time chat app using C++ and WebSockets.
-- Implemented priority queues to enhance message delivery efficiency, reducing latency.
-
-### **Face Recognition Attendance System**
-
-- Built a facial recognition system using Python and OpenCV, streamlining attendance management for corporate offices.
-
-### **Video Calling Web Application**
-
-- Developed a video calling platform using WebRTC, enabling real-time communication with integrated chat features.
-
-### **E-commerce Application**
-
-- Delivered an end-to-end e-commerce platform with features like product customization, payment integration, and inventory management.
-
----
-
-## **Awards**
-
-- **Innovator of the Year, Onest Tech LLC** (2022)  
-- **Code Optimization Champion, CodingCon** (2020)
-
----
-
-
-### **Popular Laravel Packages:**
-1. [jmrashed/zkteco](https://github.com/jmrashed/zkteco)  
-   A Laravel package for integrating with ZKTeco biometric devices.
-2. [jmrashed/laravel-core-application-auth-lib](https://github.com/jmrashed/laravel-core-application-auth-lib)  
-   Core library for authentication in Laravel applications.
-3. [jmrashed/laravel-core-application-service](https://github.com/jmrashed/laravel-core-application-service)  
-   Service-oriented architecture for Laravel applications.
-
-
-
----
-
-## **Recent Technologies Used**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-29BEB0?style=flat-square&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
----
-
-## **Contact Information**
-
-- **Email:** jmrashed@gmail.com  
-- **Location:** Dhaka, Bangladesh  
