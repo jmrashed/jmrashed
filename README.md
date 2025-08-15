@@ -1,6 +1,6 @@
 # MD RASHEDUZZAMAN
 
-**LinkedIn** | **+88 01734446514** | **jmrashedbd@gmail.com** | **GitHub**
+**[LinkedIn](https://www.linkedin.com/in/jmrashed/)** | **[WhatsApp](https://wa.me/8801734446514)** | **[Email](mailto:jmrashed@gmail.com)** | **[GitHub](https://github.com/jmrashed)**
 
 ## Summary
 
