@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "root": "portfolio",
   "builds": [
     {
       "src": "package.json",
