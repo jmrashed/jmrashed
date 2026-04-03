@@ -77,7 +77,14 @@ Git · Jira · Postman · Figma · Nginx · ELK Stack · CI/CD · Tailwind CSS �
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=jmrashed&theme=tokyonight&hide_border=true" />
+  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=jmrashed&theme=tokyonight&hide_border=true" />
+  <img height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jmrashed&theme=github" />
+  <img height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jmrashed&theme=github" />
+</div>
+
+### 📈 **Activity Graph**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jmrashed&theme=github-compact" />
 </div>
 
 ---
