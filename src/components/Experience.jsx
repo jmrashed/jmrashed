@@ -1,54 +1,89 @@
 import { FaBriefcase } from 'react-icons/fa';
 
 const Experience = () => {
-  const experiences = [
+const experiences = [
     {
       role: 'Technical Director',
       company: 'SDT LTD',
-      duration: 'March 2025 – Present',
+      duration: 'March 2025 - Present | Hybrid - Dhaka, Bangladesh',
       contributions: [
-        'Driving technical strategy aligned with business growth across SaaS and AI-powered product lines',
-        'Architecting scalable, secure, enterprise-grade system infrastructure',
-        'Leading high-performing engineering teams through mentorship and hands-on technical guidance',
-        'Collaborating directly with clients and stakeholders to translate business needs into technical deliverables',
+        'Driving technical strategy and aligning engineering with business growth goals',
+        'Leading SaaS and AI-powered product development across multiple domains',
+        'Designing scalable, secure system architectures for enterprise-grade platforms',
+        'Guiding high-performing teams through mentorship and technical leadership',
+        'Collaborating with clients and stakeholders to deliver impactful solutions'
       ],
     },
     {
       role: 'Tech Lead Officer',
       company: 'Onest Tech LLC',
-      duration: 'September 2022 – February 2025',
+      duration: 'September 2022 - February 2025 | Remote - Texas Dr, Sugar Land, Texas 77479, USA',
       contributions: [
-        'Directed 36 engineers across concurrent projects, achieving a 98% client satisfaction rate',
-        'Designed 4 complex software systems, reducing downtime by 35% and increasing scalability by 15%',
-        'Improved application performance by 10% through architectural refactoring and code optimization',
-        'Deployed CI/CD pipelines and Docker containerization, cutting deployment time by 10%',
-        'Implemented Agile methodologies, increasing project delivery speed and team productivity',
-        'Coached and upskilled 40+ developers, raising overall code quality and engineering standards',
+        'Team Leadership: Successfully led 36 developers across multiple projects, achieving 98% client satisfaction rate',
+        'Performance Optimization: Improved application performance by 10% through architectural improvements and code optimization',
+        'System Architecture: Designed 4 complex software systems, reducing downtime by 35% and increasing scalability by 15%',
+        'DevOps Implementation: Deployed CI/CD pipelines and Docker, reducing deployment time by 10% and post-deployment issues',
+        'Process Improvement: Implemented Agile methodologies, improving project delivery time and team productivity',
+        'Mentoring: Mentored 40+ developers, significantly improving code quality and technical skills across the team'
       ],
     },
     {
       role: 'Project Manager',
       company: 'Onest Tech LLC',
-      duration: 'February 2021 – August 2022',
+      duration: 'February 2021 - August 2022 | Hybrid - H-148,R-13/B, Banani, Bangladesh',
       contributions: [
-        'Managed 15+ concurrent projects with a 95% on-time delivery rate',
-        'Maintained relationships with 100+ clients, consistently delivering high-satisfaction outcomes',
-        'Reduced project delivery cycle by 20% through Agile/Scrum process improvements',
-        'Allocated technical resources strategically to maximize project efficiency and ROI',
+        'Project Delivery: Managed 15+ concurrent projects with 95% on-time delivery rate',
+        'Stakeholder Management: Maintained relationships with 100+ clients, ensuring project success and customer satisfaction',
+        'Process Optimization: Implemented Agile/Scrum methodologies, reducing project delivery time by 20%',
+        'Resource Management: Effectively allocated technical resources, maximizing project efficiency and ROI',
+        'Risk Management: Proactively identified and mitigated project risks, maintaining on-budget delivery'
       ],
     },
     {
       role: 'Project Manager',
       company: 'Spondon IT',
-      duration: 'November 2018 – January 2021',
+      duration: 'Nov 2018 - Jan 2021 | Onsite - Panthapath, Dhaka, Bangladesh',
       contributions: [
-        'Defined project scope and deliverables using PHP, Node.js, and Python technology stacks',
-        'Implemented infrastructure-as-code practices using AWS, Docker, and CI/CD pipelines',
-        'Deployed monitoring solutions, improving system reliability by 25%',
-        'Facilitated cross-functional collaboration between development and operations teams',
-        'Supervised UI/UX improvements, increasing user satisfaction scores by 30%',
+        'Project Scope Management: Defined project objectives and deliverables using modern tech stack (PHP, Node.js, Python)',
+        'Infrastructure Management: Implemented infrastructure-as-code practices using AWS, Docker, and CI/CD pipelines',
+        'Performance Monitoring: Deployed robust monitoring solutions, improving system reliability by 25%',
+        'Team Collaboration: Facilitated seamless collaboration between development and operations teams',
+        'UI/UX Improvement: Supervised creation of user-friendly interfaces, increasing user satisfaction by 30%'
       ],
     },
+    {
+      role: 'Senior Software Engineer',
+      company: 'Boishakhi Media Limited',
+      duration: 'July 2017 - Oct 2018 | Dhaka, Bangladesh',
+      contributions: [
+        'Full-Stack Development: Led development using PHP (Laravel, CodeIgniter) and JavaScript frameworks',
+        'Database Optimization: Managed and optimized MySQL and NoSQL databases for improved performance',
+        'API Development: Designed and implemented RESTful APIs and GraphQL endpoints for seamless data communication',
+        'UI/UX Design: Created visually appealing interfaces using modern CSS frameworks and design principles',
+        'System Scaling: Architected scalable systems handling increased user loads through optimization strategies'
+      ],
+    },
+    {
+      role: 'Software Engineer',
+      company: 'United Group',
+      duration: 'January 2016 - June 2017 | Dhaka, Bangladesh',
+      contributions: [
+        'Recognition: Awarded "Employee of the Year 2017" for outstanding performance',
+        'Full-Stack Development: Led end-to-end software development from database design to UI implementation',
+        'API Integration: Developed and maintained RESTful APIs for front-end and back-end communication',
+        'User Experience: Enhanced web application interactivity using JavaScript and jQuery'
+      ],
+    },
+    {
+      role: 'Software Engineer Intern',
+      company: 'IWFM, BUET',
+      duration: 'January 2015 - December 2015 | Dhaka, Bangladesh',
+      contributions: [
+        'Learning & Growth: Gained hands-on experience in web development and database management',
+        'WordPress Development: Customized themes and plugins for client requirements',
+        'Documentation: Created comprehensive technical documentation for knowledge sharing'
+      ],
+    }
   ];
 
   return (
