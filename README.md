@@ -4,7 +4,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/jmrashed/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=flat-square&logo=hackerrank)](https://www.hackerrank.com/profile/jmrashed)
 [![Email](https://img.shields.io/badge/Email-jmrashed@gmail.com-red?style=flat-square&logo=gmail)](mailto:jmrashed@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp)](https://wa.me/8801734446514)
 
 ---
 
@@ -124,7 +123,6 @@ I'm open to **remote roles** and **relocation** in **technical leadership** and 
 - 📧 **Email**: [jmrashed@gmail.com](mailto:jmrashed@gmail.com)
 - 🌐 **Portfolio**: [jmrashed.github.io](https://jmrashed.github.io/)
 - 💼 **LinkedIn**: [linkedin.com/in/jmrashed](https://www.linkedin.com/in/jmrashed/)
-- 💬 **WhatsApp**: [+8801734446514](https://wa.me/8801734446514)
 - 🏆 **LeetCode**: [leetcode.com/u/jmrashed](https://leetcode.com/u/jmrashed/)
 - 🏅 **HackerRank**: [hackerrank.com/profile/jmrashed](https://www.hackerrank.com/profile/jmrashed)
 

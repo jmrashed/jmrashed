@@ -2,7 +2,6 @@
 **Technical Director & Tech Lead | 10+ Years in Scalable Enterprise Solutions**
 
 📍 Dhaka, Bangladesh (Remote-Ready | UTC+6)
-📞 +88 01734446514
 ✉️ [jmrashed@gmail.com](mailto:jmrashed@gmail.com)
 🔗 [LinkedIn](https://linkedin.com/in/jmrashed) | [GitHub](https://github.com/jmrashed)
 
