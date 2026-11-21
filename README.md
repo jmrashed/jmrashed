@@ -8,32 +8,45 @@
 
 ---
 
-## 🚀 **Tech Lead | Full-Stack Engineer | Technical Project Manager**
+## 🚀 **Tech Lead | SaaS & AI Products | Full-Stack Engineer**
 
-> 10+ years of experience architecting and delivering scalable SaaS, ERP, HRM, LMS, CRM, and AI-powered platforms. Proven leader in managing development teams, optimizing performance, and driving enterprise-grade software solutions.
+> 10+ years building SaaS and AI products and leading the engineers who ship them. Led teams of up to 36 engineers. Node.js, React, Laravel and PHP, on Docker, AWS and CI/CD.
 
 ---
 
 ## 📋 **Professional Summary**
 
-As a seasoned **Tech Lead** and **Full-Stack Engineer**, I specialize in building robust, scalable applications using modern technologies. With expertise in **Laravel**, **Node.js**, **React**, **Python**, and **AWS**, I excel in **microservices architecture**, **API integrations**, **CI/CD pipelines**, and **AI-driven solutions**. Currently leading a team of 36+ developers at Onest Tech LLC, I've successfully reduced system downtime by 35% and boosted performance by 15% through strategic optimizations.
+I'm a **Tech Lead** and **Software Architect** who builds scalable SaaS and AI-powered products and leads engineering teams from architecture to production. My main stack is **Node.js**, **React**, **Laravel** and **PHP**, with **PostgreSQL**, **MySQL**, **Docker**, **AWS** and **CI/CD**.
 
-I'm passionate about **remote collaboration**, **DevOps practices**, and integrating AI to solve real-world problems. Open to **remote Tech Lead**, **Engineering Manager**, or **Senior Software Engineer** roles in the US market.
+Currently **Tech Lead and Software Architect at SDT Ltd** (since April 2025), where I led a 23-person cross-functional team that launched a SaaS job marketplace with AI candidate matching. Before that, I led 36 developers as **Technical Lead at Onest Tech LLC** (Sep 2022 to Mar 2025), designing 4 systems that cut downtime by 35% and improved scalability by 15%.
+
+I'm open to **remote Tech Lead, Engineering Manager and Senior Software Engineer roles**, and to **relocation**.
+
+---
+
+## 💼 **Experience**
+
+| Role | Company | Dates |
+|------|---------|-------|
+| Tech Lead & Software Architect | SDT Ltd | Apr 2025 to Present |
+| Technical Lead | Onest Tech LLC | Sep 2022 to Mar 2025 |
+
+Full history: [jmrashed.github.io](https://jmrashed.github.io/) · [LinkedIn](https://www.linkedin.com/in/jmrashed/)
 
 ---
 
 ## 🛠️ **Tech Stack**
 
 ### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -51,26 +64,33 @@ Git · Jira · Postman · Figma · Nginx · ELK Stack · CI/CD · Tailwind CSS �
 
 ---
 
-## 🌟 **Highlighted Projects**
+## 🌟 **Top Projects**
 
-| Project | Description | Tech Stack | Outcomes |
-|---------|-------------|------------|----------|
-| **[HRM Microservices System](https://github.com/jmrashed?tab=repositories)** | Modular HRM platform with event-driven architecture for real-time processing and fault tolerance. | Node.js · Go · Kafka · Redis · Docker | Deployed in production, handling 10K+ users with 99.9% uptime. |
-| **[Multi-Vendor E-Commerce](https://github.com/jmrashed?tab=repositories)** | Scalable marketplace supporting multiple vendors with integrated payment gateways and analytics. | Next.js · Node.js · MongoDB · Laravel | Processed $500K+ in transactions, 20% increase in vendor engagement. |
-| **[Learning Management System](https://github.com/jmrashed?tab=repositories)** | Comprehensive LMS for course management, progress tracking, and third-party integrations. | Laravel · REST API · Bootstrap | Used by 5K+ students, improved completion rates by 25%. |
-| **[AI Climate Prediction](https://github.com/jmrashed/ai-climate-prediction)** | ML model predicting climate changes for environmental monitoring and policy-making. | Python · AI · Machine Learning | Achieved 85% accuracy in predictions, contributed to sustainability research. |
-| **[Animal Classifier (Zero-Shot Learning)](https://github.com/jmrashed/animal-classifier-with-zero-shot-learning)** | Web app classifying animals without prior training using semantic embeddings. | Flask · PyTorch · ResNet | Demonstrated advanced AI capabilities, 90% classification accuracy. |
-| **[Real-Time Chat Application](https://github.com/jmrashed/chat-backend)** | Full-stack chat system with real-time messaging and file sharing. | Node.js · Express · Socket.IO · MongoDB | Supports 1K+ concurrent users, scalable for enterprise use. |
+| Project | Description | Tech Stack | Outcome |
+|---------|-------------|------------|---------|
+| **[SaaS Job Marketplace](https://jmrashed.github.io/projects/saas-job-marketplace/)** | Job marketplace with AI candidate-job matching, resume rewriting and PDF resume parsing. | Laravel · MySQL · Tailwind CSS · Docker · OpenAI API | Led a 23-person cross-functional team from scope to production launch. |
+| **[SaaS ERP](https://jmrashed.github.io/projects/saas-erp/)** | ERP covering accounting, inventory and CRM. | CodeIgniter · React · MySQL · Redis · Docker | Scaled to 1,000+ concurrent users. |
+| **[AI Attendance Checker](https://github.com/jmrashed/ai-attendance-checker)** | Facial-recognition attendance and HR platform. | Node.js · React · OpenCV · TensorFlow | Used to track 10,000+ employees. |
+| **[zkteco](https://github.com/jmrashed/zkteco)** | Open-source Laravel package for ZKTeco biometric devices. | PHP · Laravel | 13,700+ installs and 69 GitHub stars. |
+| **[SMSPit](https://github.com/jmrashed/SMSPit)** | Self-hosted SMS sandbox: capture, inspect, search, replay and debug SMS locally. | React · Go · Node.js · Redis · Docker | Test SMS flows without spending real credits. |
+
+---
+
+## ✍️ **Writing**
+
+- [How I Scaled a PHP Monolith to Handle 1,000 Concurrent Users Without Rewriting It](https://jmrashed.github.io/blogs/scaling-php-monolith-1000-concurrent-users/)
+- [CI/CD for a 36-Person Team: What Actually Worked (and What Didn't)](https://jmrashed.github.io/blogs/cicd-36-person-team-lessons-learned/)
+- [Designing a Multi-Tenant SaaS Architecture in Laravel: Lessons from Production](https://jmrashed.github.io/blogs/multi-tenant-saas-laravel-production-lessons/)
 
 ---
 
 ## 🏆 **Key Achievements**
 
-- **System Optimization**: Reduced downtime by 35% and improved performance by 15% through architectural redesigns.
-- **Team Leadership**: Mentored 40+ developers and collaborated with 100+ global clients.
-- **Innovation Award**: Recognized as Innovator of the Year (2022) at Onest Tech LLC.
-- **AI Integration**: Developed AI-powered features for climate prediction and automation tools.
-- **Scalable Solutions**: Built enterprise-grade platforms serving thousands of users.
+- **Team Leadership**: Led 36 developers across concurrent projects at 98% client satisfaction, and mentored 40+ developers.
+- **System Design**: Designed 4 systems that cut downtime by 35% and improved scalability by 15%.
+- **Open Source**: Author of `zkteco` for Laravel, with 13,700+ installs and 69 GitHub stars.
+- **AI Products**: Shipped AI features with the OpenAI API and custom NLP in SaaS products.
+- **Recognition**: Innovator of the Year (2022) at Onest Tech LLC.
 
 ---
 
@@ -92,14 +112,14 @@ Git · Jira · Postman · Figma · Nginx · ELK Stack · CI/CD · Tailwind CSS �
 ## 🔍 **Currently Exploring**
 
 - 🌱 Cloud-native architectures with Go & Kafka
-- ⚙️ AI-driven automation and predictive analytics
-- 🤝 Remote team collaboration and open-source contributions
+- ⚙️ AI-assisted engineering and AI-driven automation
+- 🎤 Public speaking and technical writing in English
 
 ---
 
 ## 📬 **Let's Connect**
 
-I'm open to discussing **remote opportunities** in **full-stack development**, **technical leadership**, or **software engineering**. Feel free to reach out!
+I'm open to **remote roles** and **relocation** in **technical leadership** and **software engineering**. Feel free to reach out!
 
 - 📧 **Email**: [jmrashed@gmail.com](mailto:jmrashed@gmail.com)
 - 🌐 **Portfolio**: [jmrashed.github.io](https://jmrashed.github.io/)
